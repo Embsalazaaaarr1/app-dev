@@ -20,3 +20,5 @@ The story of Fate/Zero takes place ten years prior to the events of Fate/Stay Ni
 ## Why I love this series
 Because of how Kiritsugu finds himself deeply torn between the love he has found for his new family his wife Irisviel and their daughter Illya and what he must do to obtain the Holy Grail. And making him lose his sanity because of his ideals are not good enough. 
 
+## License
+This README file is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
